@@ -16,4 +16,5 @@ puis touche "entrée"
     ./app.sh
 puis touche "entrée"
 
+
 Pour quitter le programme alors qu'il est en fonctionnement, faire : "control + C"
