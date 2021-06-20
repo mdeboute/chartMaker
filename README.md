@@ -1,19 +1,9 @@
 # chartMaker
 
-## CONFIGURATION
-- Mettre le dossier "chartMaker" sur son bureau
-- Ouvrir un terminal
-- copier/coller dans le terminal les commandes suivantes :
-  - cd Desktop/chartMaker/config
-  - chmod u+x requirements.sh
-  - ./requirements.sh
-puis touche "entrée"
+## First install Poetry (a useful Python packaging and dependency manager)
 
+Just copy/past this command in a bash: ```curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -```
 
-## LANCER LE PROGRAMME
-- Toujours depuis un terminal, copier/coller les commandes suivantes :
-    - cd Desktop/chartMaker
-    - ./app.sh
-puis touche "entrée"
+## Then run the script
 
-Pour quitter le programme alors qu'il est en fonctionnement, faire : "control + C"
+Run the script with this command: ```poetry python ./src/spider_chart.py```
