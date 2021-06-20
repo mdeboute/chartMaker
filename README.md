@@ -1,4 +1,4 @@
-# chartMaker
+# chartMaker 🕸
 
 ## First install Poetry (a useful Python packaging and dependency manager)
 
